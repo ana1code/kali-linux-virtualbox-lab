@@ -63,7 +63,7 @@ Through this practical exercise, I gained experience with:
 
 ## 📸 Documentation
 
-Detailed installation steps and screenshots will be available in the documentation section of this repository.
+Detailed installation steps and screenshots are available in the [Installation Guide](documentation/installation-guide.md).
 
 ## ⚠️ Disclaimer
 
